@@ -4,3 +4,9 @@ java --version
 Java trabaja por clases--> método (qué puede hacer la platilla):main.
 Reglas de sintaxis: public class es en minúscula 
 Todas las instrucciones llevan punto y coma, pero la creación de clases no.
+
+  public class HolaMundo{
+       public static void main(String[]args){
+        System.out.println("Hola Mundo");
+   }
+  }
