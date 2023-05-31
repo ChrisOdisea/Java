@@ -10,3 +10,28 @@ Todas las instrucciones llevan punto y coma, pero la creación de clases no.
         System.out.println("Hola Mundo");
    }
   }
+
+tipos de datos:
+
+enteros:
+byte=-128-127
+short=-32000-32000
+int=-2 140 000-2 140 000
+long
+
+flotantes:
+double= hasta 13 espacios después del punto decimal
+float= hasta 8 espacios después del punto decimal
+
+tipos de datos primitivos
+
+caractéres:
+char 'a' (comillas simples)
+
+booleanos=true-false
+
+no primitivos:
+cadenas
+string
+arrays
+clases
